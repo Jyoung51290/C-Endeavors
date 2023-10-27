@@ -16,6 +16,7 @@ namespace WithTopLavel
             Console.WriteLine("Please enter a number.");
             var input = Console.ReadLine();
 
+            int.Parse(input);
             var inputAsNumeric = Convert.ToDouble(input);
            
             Console.WriteLine($"{otherNumber} * {inputAsNumeric} == {otherNumber * inputAsNumeric}");
