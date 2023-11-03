@@ -1,0 +1,14 @@
+C:\Users\JYOUN315\Documents\GitHub\C-Endeavors\Tax Calculator\bin\Debug\net7.0\Tax Calculator.exe
+C:\Users\JYOUN315\Documents\GitHub\C-Endeavors\Tax Calculator\bin\Debug\net7.0\Tax Calculator.deps.json
+C:\Users\JYOUN315\Documents\GitHub\C-Endeavors\Tax Calculator\bin\Debug\net7.0\Tax Calculator.runtimeconfig.json
+C:\Users\JYOUN315\Documents\GitHub\C-Endeavors\Tax Calculator\bin\Debug\net7.0\Tax Calculator.dll
+C:\Users\JYOUN315\Documents\GitHub\C-Endeavors\Tax Calculator\bin\Debug\net7.0\Tax Calculator.pdb
+C:\Users\JYOUN315\Documents\GitHub\C-Endeavors\Tax Calculator\obj\Debug\net7.0\Tax Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JYOUN315\Documents\GitHub\C-Endeavors\Tax Calculator\obj\Debug\net7.0\Tax Calculator.AssemblyInfoInputs.cache
+C:\Users\JYOUN315\Documents\GitHub\C-Endeavors\Tax Calculator\obj\Debug\net7.0\Tax Calculator.AssemblyInfo.cs
+C:\Users\JYOUN315\Documents\GitHub\C-Endeavors\Tax Calculator\obj\Debug\net7.0\Tax Calculator.csproj.CoreCompileInputs.cache
+C:\Users\JYOUN315\Documents\GitHub\C-Endeavors\Tax Calculator\obj\Debug\net7.0\Tax Calculator.dll
+C:\Users\JYOUN315\Documents\GitHub\C-Endeavors\Tax Calculator\obj\Debug\net7.0\refint\Tax Calculator.dll
+C:\Users\JYOUN315\Documents\GitHub\C-Endeavors\Tax Calculator\obj\Debug\net7.0\Tax Calculator.pdb
+C:\Users\JYOUN315\Documents\GitHub\C-Endeavors\Tax Calculator\obj\Debug\net7.0\Tax Calculator.genruntimeconfig.cache
+C:\Users\JYOUN315\Documents\GitHub\C-Endeavors\Tax Calculator\obj\Debug\net7.0\ref\Tax Calculator.dll
