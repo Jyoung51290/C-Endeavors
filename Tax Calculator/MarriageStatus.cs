@@ -1,25 +1,24 @@
-﻿namespace Tax_Calculator
+﻿using TaxCalculator;
+
+namespace Tax_Calculator
 {
     internal class MarriageStatus
+
     {
-        public MarriageStatus()
-        { }
+        int NumberofW2;
+        public MarriageStatus(int NumberofW2)
+        {
+            this.NumberofW2 = NumberofW2;
+        }
         public void AskMarriageStatus()
         {
-            string MarriageStatus;
-            Console.Write("Are you 1.Single or 2.Married? Please enter either '1' or '2'.");
-            MarriageStatus = Console.ReadLine();
+            Console.WriteLine("1. Single");
+            Console.WriteLine("2. Married");
+            Console.WriteLine("Select filing status: 1 or 2");
+            int filingStatusChoice = Convert.ToInt32(Console.ReadLine());
 
-            switch (MarriageStatus)
-            {
-                case "1":
-                    Console.WriteLine("You are single.");
-                    break;
-                case "2":
-                    Console.WriteLine("You are married.");
-                    break;
-            }
-            
+            var Program = new program(NumberofW2,filingStatusChoice);
+            Program.Askprogram();
         }
     }
 }

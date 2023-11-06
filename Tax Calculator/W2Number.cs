@@ -5,13 +5,16 @@
         public static void Main(string[] args)
         {
             string W2Number;
-            Console.Write("How many W2 forms will be used? ");
+            Console.Write("Enter number of W2 forms? ");
             W2Number = Console.ReadLine();
-            Console.WriteLine("You entered {0}.", W2Number);
- 
-            var marriageStatus = new MarriageStatus();
+            int NumberofW2 = Convert.ToInt32(W2Number);
+            double totalTaxableIncome = 0;
+            var marriageStatus = new MarriageStatus(NumberofW2);
             marriageStatus.AskMarriageStatus();
+
+
         }
-    }
+
+}
 }
 
