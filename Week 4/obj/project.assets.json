@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JYOUN315\\Documents\\GitHub\\C-Endeavors\\Testing\\PlayersGuideWeek2.csproj",
-      "projectName": "PlayersGuideWeek2",
-      "projectPath": "C:\\Users\\JYOUN315\\Documents\\GitHub\\C-Endeavors\\Testing\\PlayersGuideWeek2.csproj",
+      "projectUniqueName": "C:\\Users\\JYOUN315\\Documents\\GitHub\\C-Endeavors\\Week 4\\PlayersGuideWeek4.csproj",
+      "projectName": "PlayersGuideWeek4",
+      "projectPath": "C:\\Users\\JYOUN315\\Documents\\GitHub\\C-Endeavors\\Week 4\\PlayersGuideWeek4.csproj",
       "packagesPath": "C:\\Users\\JYOUN315\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JYOUN315\\Documents\\GitHub\\C-Endeavors\\Testing\\obj\\",
+      "outputPath": "C:\\Users\\JYOUN315\\Documents\\GitHub\\C-Endeavors\\Week 4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

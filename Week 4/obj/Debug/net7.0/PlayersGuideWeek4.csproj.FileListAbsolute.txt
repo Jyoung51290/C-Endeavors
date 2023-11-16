@@ -1,0 +1,14 @@
+C:\Users\JYOUN315\Documents\GitHub\C-Endeavors\Week 4\bin\Debug\net7.0\PlayersGuideWeek4.exe
+C:\Users\JYOUN315\Documents\GitHub\C-Endeavors\Week 4\bin\Debug\net7.0\PlayersGuideWeek4.deps.json
+C:\Users\JYOUN315\Documents\GitHub\C-Endeavors\Week 4\bin\Debug\net7.0\PlayersGuideWeek4.runtimeconfig.json
+C:\Users\JYOUN315\Documents\GitHub\C-Endeavors\Week 4\bin\Debug\net7.0\PlayersGuideWeek4.dll
+C:\Users\JYOUN315\Documents\GitHub\C-Endeavors\Week 4\bin\Debug\net7.0\PlayersGuideWeek4.pdb
+C:\Users\JYOUN315\Documents\GitHub\C-Endeavors\Week 4\obj\Debug\net7.0\PlayersGuideWeek4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JYOUN315\Documents\GitHub\C-Endeavors\Week 4\obj\Debug\net7.0\PlayersGuideWeek4.AssemblyInfoInputs.cache
+C:\Users\JYOUN315\Documents\GitHub\C-Endeavors\Week 4\obj\Debug\net7.0\PlayersGuideWeek4.AssemblyInfo.cs
+C:\Users\JYOUN315\Documents\GitHub\C-Endeavors\Week 4\obj\Debug\net7.0\PlayersGuideWeek4.csproj.CoreCompileInputs.cache
+C:\Users\JYOUN315\Documents\GitHub\C-Endeavors\Week 4\obj\Debug\net7.0\PlayersGuideWeek4.dll
+C:\Users\JYOUN315\Documents\GitHub\C-Endeavors\Week 4\obj\Debug\net7.0\refint\PlayersGuideWeek4.dll
+C:\Users\JYOUN315\Documents\GitHub\C-Endeavors\Week 4\obj\Debug\net7.0\PlayersGuideWeek4.pdb
+C:\Users\JYOUN315\Documents\GitHub\C-Endeavors\Week 4\obj\Debug\net7.0\PlayersGuideWeek4.genruntimeconfig.cache
+C:\Users\JYOUN315\Documents\GitHub\C-Endeavors\Week 4\obj\Debug\net7.0\ref\PlayersGuideWeek4.dll
