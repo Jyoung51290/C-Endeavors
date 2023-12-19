@@ -1,8 +1,5 @@
 ﻿//Program 1
 
-using System.ComponentModel.Design;
-using System.Transactions;
-
 Console.WriteLine("How many estates?");
 string estatesStr = Console.ReadLine();
 int estates = Convert.ToInt32(estatesStr);

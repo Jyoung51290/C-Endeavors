@@ -1,0 +1,14 @@
+C:\Users\JYOUN315\Documents\GitHub\C-Endeavors\TheLawsOfFreach\bin\Debug\net7.0\TheLawsOfFreach.exe
+C:\Users\JYOUN315\Documents\GitHub\C-Endeavors\TheLawsOfFreach\bin\Debug\net7.0\TheLawsOfFreach.deps.json
+C:\Users\JYOUN315\Documents\GitHub\C-Endeavors\TheLawsOfFreach\bin\Debug\net7.0\TheLawsOfFreach.runtimeconfig.json
+C:\Users\JYOUN315\Documents\GitHub\C-Endeavors\TheLawsOfFreach\bin\Debug\net7.0\TheLawsOfFreach.dll
+C:\Users\JYOUN315\Documents\GitHub\C-Endeavors\TheLawsOfFreach\bin\Debug\net7.0\TheLawsOfFreach.pdb
+C:\Users\JYOUN315\Documents\GitHub\C-Endeavors\TheLawsOfFreach\obj\Debug\net7.0\TheLawsOfFreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JYOUN315\Documents\GitHub\C-Endeavors\TheLawsOfFreach\obj\Debug\net7.0\TheLawsOfFreach.AssemblyInfoInputs.cache
+C:\Users\JYOUN315\Documents\GitHub\C-Endeavors\TheLawsOfFreach\obj\Debug\net7.0\TheLawsOfFreach.AssemblyInfo.cs
+C:\Users\JYOUN315\Documents\GitHub\C-Endeavors\TheLawsOfFreach\obj\Debug\net7.0\TheLawsOfFreach.csproj.CoreCompileInputs.cache
+C:\Users\JYOUN315\Documents\GitHub\C-Endeavors\TheLawsOfFreach\obj\Debug\net7.0\TheLawsOfFreach.dll
+C:\Users\JYOUN315\Documents\GitHub\C-Endeavors\TheLawsOfFreach\obj\Debug\net7.0\refint\TheLawsOfFreach.dll
+C:\Users\JYOUN315\Documents\GitHub\C-Endeavors\TheLawsOfFreach\obj\Debug\net7.0\TheLawsOfFreach.pdb
+C:\Users\JYOUN315\Documents\GitHub\C-Endeavors\TheLawsOfFreach\obj\Debug\net7.0\TheLawsOfFreach.genruntimeconfig.cache
+C:\Users\JYOUN315\Documents\GitHub\C-Endeavors\TheLawsOfFreach\obj\Debug\net7.0\ref\TheLawsOfFreach.dll

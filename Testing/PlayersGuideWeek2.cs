@@ -1,5 +1,4 @@
-﻿using System.Formats.Asn1;
-
+﻿//Program 1
 // Stores data under the variable "thing"
 string thing;
 // Iniates the console with a starting question
@@ -21,7 +20,7 @@ Thread.Sleep(400);
 // Puts all of the strings together with some texts in order to diaplay the final console message
 Console.WriteLine("The " + description + " " + thing + " of Doom 3000!");
 
-
+//Program 2
 Console.WriteLine("How many inches is the size of the base? ");
 string baseSizeStr = Console.ReadLine();
 double baseSize = Convert.ToDouble(baseSizeStr);
@@ -34,4 +33,12 @@ double area = (height * baseSize) / 2;
 Console.WriteLine("The area is " + area + " square inches.");
 
 
- 
+//Program 3
+Console.WriteLine("How many eggs are there today? ");
+int length = Convert.ToInt32(Console.ReadLine());
+
+int eggsForEachSister = length / 4;
+int eggsForDuckbear =  length % 4;
+
+Console.WriteLine("Eggs for each sister: " + eggsForEachSister);
+Console.WriteLine("Eggs for Duckbear: " + eggsForDuckbear);

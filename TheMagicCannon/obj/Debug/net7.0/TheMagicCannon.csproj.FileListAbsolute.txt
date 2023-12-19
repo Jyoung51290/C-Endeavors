@@ -1,0 +1,14 @@
+C:\Users\JYOUN315\Documents\GitHub\C-Endeavors\TheMagicCannon\bin\Debug\net7.0\TheMagicCannon.exe
+C:\Users\JYOUN315\Documents\GitHub\C-Endeavors\TheMagicCannon\bin\Debug\net7.0\TheMagicCannon.deps.json
+C:\Users\JYOUN315\Documents\GitHub\C-Endeavors\TheMagicCannon\bin\Debug\net7.0\TheMagicCannon.runtimeconfig.json
+C:\Users\JYOUN315\Documents\GitHub\C-Endeavors\TheMagicCannon\bin\Debug\net7.0\TheMagicCannon.dll
+C:\Users\JYOUN315\Documents\GitHub\C-Endeavors\TheMagicCannon\bin\Debug\net7.0\TheMagicCannon.pdb
+C:\Users\JYOUN315\Documents\GitHub\C-Endeavors\TheMagicCannon\obj\Debug\net7.0\TheMagicCannon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JYOUN315\Documents\GitHub\C-Endeavors\TheMagicCannon\obj\Debug\net7.0\TheMagicCannon.AssemblyInfoInputs.cache
+C:\Users\JYOUN315\Documents\GitHub\C-Endeavors\TheMagicCannon\obj\Debug\net7.0\TheMagicCannon.AssemblyInfo.cs
+C:\Users\JYOUN315\Documents\GitHub\C-Endeavors\TheMagicCannon\obj\Debug\net7.0\TheMagicCannon.csproj.CoreCompileInputs.cache
+C:\Users\JYOUN315\Documents\GitHub\C-Endeavors\TheMagicCannon\obj\Debug\net7.0\TheMagicCannon.dll
+C:\Users\JYOUN315\Documents\GitHub\C-Endeavors\TheMagicCannon\obj\Debug\net7.0\refint\TheMagicCannon.dll
+C:\Users\JYOUN315\Documents\GitHub\C-Endeavors\TheMagicCannon\obj\Debug\net7.0\TheMagicCannon.pdb
+C:\Users\JYOUN315\Documents\GitHub\C-Endeavors\TheMagicCannon\obj\Debug\net7.0\TheMagicCannon.genruntimeconfig.cache
+C:\Users\JYOUN315\Documents\GitHub\C-Endeavors\TheMagicCannon\obj\Debug\net7.0\ref\TheMagicCannon.dll
